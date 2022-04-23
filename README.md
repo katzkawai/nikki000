@@ -2,4 +2,4 @@
 
 Hugoサンプルサイト
 
-https://katzkawai.org/nikki01/
+https://katzkawai.org/nikki000/
