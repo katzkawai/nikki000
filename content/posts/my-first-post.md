@@ -8,6 +8,4 @@ draft: false
 
 ブログをはじめました。よろしくお願いします。
 
-行を追加してみます。
-
 {{<youtube 2xkNJL4gJ9E>}}
