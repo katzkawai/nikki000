@@ -1,4 +1,4 @@
-# nikki01
+# nikki000
 
 Hugoサンプルサイト
 
